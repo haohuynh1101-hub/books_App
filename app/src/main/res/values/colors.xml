@@ -14,6 +14,7 @@
     <color name="primary_300">#68B5A5</color>
     <color name="primary_400">#52A593</color>
     <color name="primary_500">#469582</color>
+    <color name="primary_600">#418875</color>
 
     <color name="gray_50">#F9FAFB</color>
     <color name="gray_100">#F3F4F6</color>
@@ -22,5 +23,11 @@
     <color name="gray_400">#9CA3AF</color>
     <color name="gray_500">#6B7280</color>
 
+    <color name="second_50">#FBE9E7</color>
+    <color name="second_100">#FECCBC</color>
+    <color name="second_200">#FEAA91</color>
+    <color name="second_300">#FD8965</color>
+    <color name="second_400">#FD6F43</color>
+    <color name="second_500">#FD6F43</color>
 
 </resources>

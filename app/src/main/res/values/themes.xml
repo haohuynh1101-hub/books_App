@@ -11,6 +11,20 @@
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/gray_400</item>
+        <item name="colorControlActivated">#FFEB3B</item>
+    </style>
+
+    <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/primary_400</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+
+
 </resources>
